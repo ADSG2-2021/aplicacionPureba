@@ -1,0 +1,10 @@
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe.config
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.exe
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\bin\Debug\Ejercicio 1.pdb
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csprojAssemblyReference.cache
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Form1.resources
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio_1.Properties.Resources.resources
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.GenerateResource.cache
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.csproj.CoreCompileInputs.cache
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.exe
+C:\Users\aitor\Desktop\MARE NOSTRUM\1 DAW\PROGRAMACION\TEMA 6\Ejercicios\Ejercicio 1\Ejercicio 1\obj\Debug\Ejercicio 1.pdb
