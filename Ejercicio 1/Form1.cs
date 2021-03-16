@@ -85,7 +85,9 @@ namespace Ejercicio_1
         {           
             int numero = int.Parse(Interaction.InputBox("Introduce el numero que deseas eliminar"));
             numeros.Remove(numero);
-            MessageBox.Show($"El numero {numero} ha sido borrado de la lista");
+
+
+            MessageBox.Show($"El numero {numero} ha sido borrado de la lista / cambiado por usuario2");
         }
 
         void eliminarPosicion(ArrayList lista)
