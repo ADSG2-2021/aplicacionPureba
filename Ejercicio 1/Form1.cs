@@ -50,6 +50,8 @@ namespace Ejercicio_1
             else
             {
                 MessageBox.Show($"Inserte el numero dentro de los limites de la lista");
+                MessageBox.Show($"Nueva 1");
+                MessageBox.Show($"Nueva 2");
 
             }
         }
